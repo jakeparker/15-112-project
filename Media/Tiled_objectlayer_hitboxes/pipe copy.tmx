@@ -1,0 +1,476 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" width="15" height="10" tilewidth="16" tileheight="16">
+ <tileset firstgid="1" name="main" tilewidth="16" tileheight="16">
+  <image source="../tilesets/main.png" width="256" height="288"/>
+ </tileset>
+ <layer name="midground" width="15" height="10">
+  <data>
+   <tile gid="0"/>
+   <tile gid="0"/>
+   <tile gid="0"/>
+   <tile gid="0"/>
+   <tile gid="0"/>
+   <tile gid="0"/>
+   <tile gid="0"/>
+   <tile gid="0"/>
+   <tile gid="0"/>
+   <tile gid="0"/>
+   <tile gid="0"/>
+   <tile gid="0"/>
+   <tile gid="0"/>
+   <tile gid="0"/>
+   <tile gid="0"/>
+   <tile gid="0"/>
+   <tile gid="0"/>
+   <tile gid="0"/>
+   <tile gid="0"/>
+   <tile gid="0"/>
+   <tile gid="0"/>
+   <tile gid="0"/>
+   <tile gid="0"/>
+   <tile gid="0"/>
+   <tile gid="0"/>
+   <tile gid="0"/>
+   <tile gid="0"/>
+   <tile gid="0"/>
+   <tile gid="0"/>
+   <tile gid="0"/>
+   <tile gid="0"/>
+   <tile gid="0"/>
+   <tile gid="0"/>
+   <tile gid="0"/>
+   <tile gid="0"/>
+   <tile gid="0"/>
+   <tile gid="0"/>
+   <tile gid="0"/>
+   <tile gid="0"/>
+   <tile gid="0"/>
+   <tile gid="0"/>
+   <tile gid="0"/>
+   <tile gid="0"/>
+   <tile gid="0"/>
+   <tile gid="0"/>
+   <tile gid="0"/>
+   <tile gid="0"/>
+   <tile gid="0"/>
+   <tile gid="0"/>
+   <tile gid="0"/>
+   <tile gid="0"/>
+   <tile gid="0"/>
+   <tile gid="0"/>
+   <tile gid="0"/>
+   <tile gid="0"/>
+   <tile gid="0"/>
+   <tile gid="0"/>
+   <tile gid="0"/>
+   <tile gid="0"/>
+   <tile gid="0"/>
+   <tile gid="128"/>
+   <tile gid="128"/>
+   <tile gid="128"/>
+   <tile gid="128"/>
+   <tile gid="128"/>
+   <tile gid="128"/>
+   <tile gid="128"/>
+   <tile gid="128"/>
+   <tile gid="128"/>
+   <tile gid="128"/>
+   <tile gid="128"/>
+   <tile gid="128"/>
+   <tile gid="128"/>
+   <tile gid="128"/>
+   <tile gid="128"/>
+   <tile gid="144"/>
+   <tile gid="144"/>
+   <tile gid="144"/>
+   <tile gid="144"/>
+   <tile gid="144"/>
+   <tile gid="144"/>
+   <tile gid="144"/>
+   <tile gid="144"/>
+   <tile gid="144"/>
+   <tile gid="144"/>
+   <tile gid="144"/>
+   <tile gid="144"/>
+   <tile gid="144"/>
+   <tile gid="144"/>
+   <tile gid="144"/>
+   <tile gid="160"/>
+   <tile gid="160"/>
+   <tile gid="160"/>
+   <tile gid="160"/>
+   <tile gid="160"/>
+   <tile gid="160"/>
+   <tile gid="160"/>
+   <tile gid="160"/>
+   <tile gid="160"/>
+   <tile gid="160"/>
+   <tile gid="160"/>
+   <tile gid="160"/>
+   <tile gid="160"/>
+   <tile gid="160"/>
+   <tile gid="160"/>
+   <tile gid="0"/>
+   <tile gid="0"/>
+   <tile gid="0"/>
+   <tile gid="0"/>
+   <tile gid="0"/>
+   <tile gid="0"/>
+   <tile gid="0"/>
+   <tile gid="0"/>
+   <tile gid="0"/>
+   <tile gid="0"/>
+   <tile gid="0"/>
+   <tile gid="0"/>
+   <tile gid="0"/>
+   <tile gid="0"/>
+   <tile gid="0"/>
+   <tile gid="0"/>
+   <tile gid="0"/>
+   <tile gid="0"/>
+   <tile gid="0"/>
+   <tile gid="0"/>
+   <tile gid="0"/>
+   <tile gid="0"/>
+   <tile gid="0"/>
+   <tile gid="0"/>
+   <tile gid="0"/>
+   <tile gid="0"/>
+   <tile gid="0"/>
+   <tile gid="0"/>
+   <tile gid="0"/>
+   <tile gid="0"/>
+   <tile gid="0"/>
+   <tile gid="0"/>
+   <tile gid="0"/>
+   <tile gid="0"/>
+   <tile gid="0"/>
+   <tile gid="0"/>
+   <tile gid="0"/>
+   <tile gid="0"/>
+   <tile gid="0"/>
+   <tile gid="0"/>
+   <tile gid="0"/>
+   <tile gid="0"/>
+   <tile gid="0"/>
+   <tile gid="0"/>
+   <tile gid="0"/>
+  </data>
+ </layer>
+ <layer name="level layer" width="15" height="10">
+  <data>
+   <tile gid="151"/>
+   <tile gid="151"/>
+   <tile gid="151"/>
+   <tile gid="151"/>
+   <tile gid="151"/>
+   <tile gid="151"/>
+   <tile gid="151"/>
+   <tile gid="151"/>
+   <tile gid="151"/>
+   <tile gid="151"/>
+   <tile gid="151"/>
+   <tile gid="151"/>
+   <tile gid="151"/>
+   <tile gid="151"/>
+   <tile gid="151"/>
+   <tile gid="151"/>
+   <tile gid="151"/>
+   <tile gid="151"/>
+   <tile gid="151"/>
+   <tile gid="151"/>
+   <tile gid="151"/>
+   <tile gid="151"/>
+   <tile gid="151"/>
+   <tile gid="151"/>
+   <tile gid="151"/>
+   <tile gid="151"/>
+   <tile gid="151"/>
+   <tile gid="151"/>
+   <tile gid="151"/>
+   <tile gid="151"/>
+   <tile gid="151"/>
+   <tile gid="151"/>
+   <tile gid="151"/>
+   <tile gid="151"/>
+   <tile gid="151"/>
+   <tile gid="151"/>
+   <tile gid="151"/>
+   <tile gid="151"/>
+   <tile gid="151"/>
+   <tile gid="151"/>
+   <tile gid="151"/>
+   <tile gid="151"/>
+   <tile gid="151"/>
+   <tile gid="151"/>
+   <tile gid="151"/>
+   <tile gid="64"/>
+   <tile gid="64"/>
+   <tile gid="64"/>
+   <tile gid="64"/>
+   <tile gid="64"/>
+   <tile gid="64"/>
+   <tile gid="64"/>
+   <tile gid="64"/>
+   <tile gid="64"/>
+   <tile gid="64"/>
+   <tile gid="64"/>
+   <tile gid="64"/>
+   <tile gid="64"/>
+   <tile gid="64"/>
+   <tile gid="64"/>
+   <tile gid="123"/>
+   <tile gid="124"/>
+   <tile gid="122"/>
+   <tile gid="123"/>
+   <tile gid="124"/>
+   <tile gid="122"/>
+   <tile gid="123"/>
+   <tile gid="124"/>
+   <tile gid="122"/>
+   <tile gid="123"/>
+   <tile gid="124"/>
+   <tile gid="122"/>
+   <tile gid="123"/>
+   <tile gid="124"/>
+   <tile gid="9"/>
+   <tile gid="139"/>
+   <tile gid="140"/>
+   <tile gid="138"/>
+   <tile gid="139"/>
+   <tile gid="140"/>
+   <tile gid="138"/>
+   <tile gid="139"/>
+   <tile gid="140"/>
+   <tile gid="138"/>
+   <tile gid="139"/>
+   <tile gid="140"/>
+   <tile gid="138"/>
+   <tile gid="139"/>
+   <tile gid="140"/>
+   <tile gid="25"/>
+   <tile gid="155"/>
+   <tile gid="156"/>
+   <tile gid="154"/>
+   <tile gid="155"/>
+   <tile gid="156"/>
+   <tile gid="154"/>
+   <tile gid="155"/>
+   <tile gid="156"/>
+   <tile gid="154"/>
+   <tile gid="155"/>
+   <tile gid="156"/>
+   <tile gid="154"/>
+   <tile gid="155"/>
+   <tile gid="156"/>
+   <tile gid="41"/>
+   <tile gid="80"/>
+   <tile gid="80"/>
+   <tile gid="80"/>
+   <tile gid="80"/>
+   <tile gid="80"/>
+   <tile gid="80"/>
+   <tile gid="80"/>
+   <tile gid="80"/>
+   <tile gid="80"/>
+   <tile gid="80"/>
+   <tile gid="80"/>
+   <tile gid="80"/>
+   <tile gid="80"/>
+   <tile gid="80"/>
+   <tile gid="80"/>
+   <tile gid="151"/>
+   <tile gid="151"/>
+   <tile gid="151"/>
+   <tile gid="151"/>
+   <tile gid="151"/>
+   <tile gid="151"/>
+   <tile gid="151"/>
+   <tile gid="151"/>
+   <tile gid="151"/>
+   <tile gid="151"/>
+   <tile gid="151"/>
+   <tile gid="151"/>
+   <tile gid="151"/>
+   <tile gid="151"/>
+   <tile gid="151"/>
+   <tile gid="151"/>
+   <tile gid="151"/>
+   <tile gid="151"/>
+   <tile gid="151"/>
+   <tile gid="151"/>
+   <tile gid="151"/>
+   <tile gid="151"/>
+   <tile gid="151"/>
+   <tile gid="151"/>
+   <tile gid="151"/>
+   <tile gid="151"/>
+   <tile gid="151"/>
+   <tile gid="151"/>
+   <tile gid="151"/>
+   <tile gid="151"/>
+  </data>
+ </layer>
+ <objectgroup name="Block" visible="0">
+  <object type="Block" x="0" y="0" width="16" height="16"/>
+  <object type="Block" x="16" y="0" width="16" height="16"/>
+  <object type="Block" x="32" y="0" width="16" height="16"/>
+  <object type="Block" x="32" y="16" width="16" height="16"/>
+  <object type="Block" x="16" y="16" width="16" height="16"/>
+  <object type="Block" x="0" y="16" width="16" height="16"/>
+  <object type="Block" x="32" y="32" width="16" height="16"/>
+  <object type="Block" x="16" y="32" width="16" height="16"/>
+  <object type="Block" x="0" y="32" width="16" height="16"/>
+  <object type="Block" x="32" y="48" width="16" height="16"/>
+  <object type="Block" x="16" y="48" width="16" height="16"/>
+  <object type="Block" x="0" y="48" width="16" height="16"/>
+  <object type="Block" x="80" y="0" width="16" height="16"/>
+  <object type="Block" x="64" y="48" width="16" height="16"/>
+  <object type="Block" x="48" y="48" width="16" height="16"/>
+  <object type="Block" x="64" y="0" width="16" height="16"/>
+  <object type="Block" x="48" y="0" width="16" height="16"/>
+  <object type="Block" x="80" y="48" width="16" height="16"/>
+  <object type="Block" x="80" y="32" width="16" height="16"/>
+  <object type="Block" x="80" y="16" width="16" height="16"/>
+  <object type="Block" x="64" y="32" width="16" height="16"/>
+  <object type="Block" x="64" y="16" width="16" height="16"/>
+  <object type="Block" x="48" y="32" width="16" height="16"/>
+  <object type="Block" x="48" y="16" width="16" height="16"/>
+  <object type="Block" x="128" y="0" width="16" height="16"/>
+  <object type="Block" x="112" y="48" width="16" height="16"/>
+  <object type="Block" x="96" y="48" width="16" height="16"/>
+  <object type="Block" x="112" y="0" width="16" height="16"/>
+  <object type="Block" x="96" y="0" width="16" height="16"/>
+  <object type="Block" x="128" y="48" width="16" height="16"/>
+  <object type="Block" x="128" y="32" width="16" height="16"/>
+  <object type="Block" x="128" y="16" width="16" height="16"/>
+  <object type="Block" x="112" y="32" width="16" height="16"/>
+  <object type="Block" x="112" y="16" width="16" height="16"/>
+  <object type="Block" x="96" y="32" width="16" height="16"/>
+  <object type="Block" x="96" y="16" width="16" height="16"/>
+  <object type="Block" x="176" y="0" width="16" height="16"/>
+  <object type="Block" x="160" y="48" width="16" height="16"/>
+  <object type="Block" x="144" y="48" width="16" height="16"/>
+  <object type="Block" x="160" y="0" width="16" height="16"/>
+  <object type="Block" x="144" y="0" width="16" height="16"/>
+  <object type="Block" x="176" y="48" width="16" height="16"/>
+  <object type="Block" x="176" y="32" width="16" height="16"/>
+  <object type="Block" x="176" y="16" width="16" height="16"/>
+  <object type="Block" x="160" y="32" width="16" height="16"/>
+  <object type="Block" x="160" y="16" width="16" height="16"/>
+  <object type="Block" x="144" y="32" width="16" height="16"/>
+  <object type="Block" x="144" y="16" width="16" height="16"/>
+  <object type="Block" x="224" y="0" width="16" height="16"/>
+  <object type="Block" x="208" y="48" width="16" height="16"/>
+  <object type="Block" x="192" y="48" width="16" height="16"/>
+  <object type="Block" x="208" y="0" width="16" height="16"/>
+  <object type="Block" x="192" y="0" width="16" height="16"/>
+  <object type="Block" x="224" y="48" width="16" height="16"/>
+  <object type="Block" x="224" y="32" width="16" height="16"/>
+  <object type="Block" x="224" y="16" width="16" height="16"/>
+  <object type="Block" x="208" y="32" width="16" height="16"/>
+  <object type="Block" x="208" y="16" width="16" height="16"/>
+  <object type="Block" x="192" y="32" width="16" height="16"/>
+  <object type="Block" x="192" y="16" width="16" height="16"/>
+  <object type="Block" x="112" y="128" width="16" height="16"/>
+  <object type="Block" x="96" y="144" width="16" height="16"/>
+  <object type="Block" x="48" y="112" width="16" height="16"/>
+  <object type="Block" x="224" y="144" width="16" height="16"/>
+  <object type="Block" x="32" y="112" width="16" height="16"/>
+  <object type="Block" x="224" y="128" width="16" height="16"/>
+  <object type="Block" x="128" y="112" width="16" height="16"/>
+  <object type="Block" x="48" y="128" width="16" height="16"/>
+  <object type="Block" x="144" y="144" width="16" height="16"/>
+  <object type="Block" x="16" y="112" width="16" height="16"/>
+  <object type="Block" x="224" y="112" width="16" height="16"/>
+  <object type="Block" x="64" y="128" width="16" height="16"/>
+  <object type="Block" x="0" y="112" width="16" height="16"/>
+  <object type="Block" x="144" y="112" width="16" height="16"/>
+  <object type="Block" x="64" y="112" width="16" height="16"/>
+  <object type="Block" x="176" y="112" width="16" height="16"/>
+  <object type="Block" x="80" y="144" width="16" height="16"/>
+  <object type="Block" x="208" y="144" width="16" height="16"/>
+  <object type="Block" x="96" y="112" width="16" height="16"/>
+  <object type="Block" x="144" y="128" width="16" height="16"/>
+  <object type="Block" x="128" y="144" width="16" height="16"/>
+  <object type="Block" x="112" y="112" width="16" height="16"/>
+  <object type="Block" x="48" y="144" width="16" height="16"/>
+  <object type="Block" x="128" y="128" width="16" height="16"/>
+  <object type="Block" x="64" y="144" width="16" height="16"/>
+  <object type="Block" x="160" y="112" width="16" height="16"/>
+  <object type="Block" x="32" y="144" width="16" height="16"/>
+  <object type="Block" x="80" y="112" width="16" height="16"/>
+  <object type="Block" x="32" y="128" width="16" height="16"/>
+  <object type="Block" x="192" y="144" width="16" height="16"/>
+  <object type="Block" x="208" y="128" width="16" height="16"/>
+  <object type="Block" x="160" y="144" width="16" height="16"/>
+  <object type="Block" x="96" y="128" width="16" height="16"/>
+  <object type="Block" x="0" y="144" width="16" height="16"/>
+  <object type="Block" x="112" y="144" width="16" height="16"/>
+  <object type="Block" x="80" y="128" width="16" height="16"/>
+  <object type="Block" x="0" y="128" width="16" height="16"/>
+  <object type="Block" x="192" y="112" width="16" height="16"/>
+  <object type="Block" x="192" y="128" width="16" height="16"/>
+  <object type="Block" x="16" y="128" width="16" height="16"/>
+  <object type="Block" x="176" y="144" width="16" height="16"/>
+  <object type="Block" x="208" y="112" width="16" height="16"/>
+  <object type="Block" x="160" y="128" width="16" height="16"/>
+  <object type="Block" x="176" y="128" width="16" height="16"/>
+  <object type="Block" x="16" y="144" width="16" height="16"/>
+ </objectgroup>
+ <objectgroup name="Air" visible="0">
+  <object type="Air" x="176" y="64" width="16" height="16"/>
+  <object type="Air" x="192" y="96" width="16" height="16"/>
+  <object type="Air" x="32" y="96" width="16" height="16"/>
+  <object type="Air" x="48" y="96" width="16" height="16"/>
+  <object type="Air" x="112" y="96" width="16" height="16"/>
+  <object type="Air" x="96" y="96" width="16" height="16"/>
+  <object type="Air" x="64" y="64" width="16" height="16"/>
+  <object type="Air" x="48" y="64" width="16" height="16"/>
+  <object type="Air" x="144" y="64" width="16" height="16"/>
+  <object type="Air" x="128" y="80" width="16" height="16"/>
+  <object type="Air" x="192" y="80" width="16" height="16"/>
+  <object type="Air" x="80" y="80" width="16" height="16"/>
+  <object type="Air" x="176" y="80" width="16" height="16"/>
+  <object type="Air" x="144" y="96" width="16" height="16"/>
+  <object type="Air" x="64" y="80" width="16" height="16"/>
+  <object type="Air" x="208" y="80" width="16" height="16"/>
+  <object type="Air" x="16" y="96" width="16" height="16"/>
+  <object type="Air" x="48" y="80" width="16" height="16"/>
+  <object type="Air" x="208" y="96" width="16" height="16"/>
+  <object type="Air" x="144" y="80" width="16" height="16"/>
+  <object type="Air" x="112" y="80" width="16" height="16"/>
+  <object type="Air" x="32" y="64" width="16" height="16"/>
+  <object type="Air" x="160" y="64" width="16" height="16"/>
+  <object type="Air" x="16" y="80" width="16" height="16"/>
+  <object type="Air" x="16" y="64" width="16" height="16"/>
+  <object type="Air" x="176" y="96" width="16" height="16"/>
+  <object type="Air" x="160" y="80" width="16" height="16"/>
+  <object type="Air" x="80" y="64" width="16" height="16"/>
+  <object type="Air" x="96" y="64" width="16" height="16"/>
+  <object type="Air" x="128" y="96" width="16" height="16"/>
+  <object type="Air" x="96" y="80" width="16" height="16"/>
+  <object type="Air" x="80" y="96" width="16" height="16"/>
+  <object type="Air" x="64" y="96" width="16" height="16"/>
+  <object type="Air" x="32" y="80" width="16" height="16"/>
+  <object type="Air" x="208" y="64" width="16" height="16"/>
+  <object type="Air" x="128" y="64" width="16" height="16"/>
+  <object type="Air" x="160" y="96" width="16" height="16"/>
+  <object type="Air" x="192" y="64" width="16" height="16"/>
+  <object type="Air" x="112" y="64" width="16" height="16"/>
+ </objectgroup>
+ <objectgroup name="Interaction" visible="0">
+  <object name="door1" type="Door" x="224" y="64" width="16" height="48">
+   <properties>
+    <property name="LinkedDoor" value="door0"/>
+    <property name="linkedLevel" value="maintenance.tmx"/>
+   </properties>
+  </object>
+  <object name="door0" type="Door" x="0" y="64" width="16" height="48">
+   <properties>
+    <property name="linkedDoor" value="door3"/>
+    <property name="linkedLevel" value="Main_Deck.tmx"/>
+   </properties>
+  </object>
+ </objectgroup>
+</map>

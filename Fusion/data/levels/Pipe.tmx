@@ -1,0 +1,424 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" width="15" height="10" tilewidth="16" tileheight="16">
+ <tileset firstgid="1" name="main" tilewidth="16" tileheight="16">
+  <image source="../tilesets/main.png" width="256" height="288"/>
+  <tile id="0">
+   <properties>
+    <property name="type" value="Block"/>
+   </properties>
+  </tile>
+  <tile id="8">
+   <properties>
+    <property name="type" value="Air"/>
+   </properties>
+  </tile>
+  <tile id="9">
+   <properties>
+    <property name="type" value="Air"/>
+   </properties>
+  </tile>
+  <tile id="24">
+   <properties>
+    <property name="type" value="Air"/>
+   </properties>
+  </tile>
+  <tile id="25">
+   <properties>
+    <property name="type" value="Air"/>
+   </properties>
+  </tile>
+  <tile id="40">
+   <properties>
+    <property name="type" value="Air"/>
+   </properties>
+  </tile>
+  <tile id="41">
+   <properties>
+    <property name="type" value="Air"/>
+   </properties>
+  </tile>
+  <tile id="63">
+   <properties>
+    <property name="type" value="Block"/>
+   </properties>
+  </tile>
+  <tile id="79">
+   <properties>
+    <property name="type" value="Block"/>
+   </properties>
+  </tile>
+  <tile id="121">
+   <properties>
+    <property name="type" value="Air"/>
+   </properties>
+  </tile>
+  <tile id="122">
+   <properties>
+    <property name="type" value="Air"/>
+   </properties>
+  </tile>
+  <tile id="123">
+   <properties>
+    <property name="type" value="Air"/>
+   </properties>
+  </tile>
+  <tile id="137">
+   <properties>
+    <property name="type" value="Air"/>
+   </properties>
+  </tile>
+  <tile id="138">
+   <properties>
+    <property name="type" value="Air"/>
+   </properties>
+  </tile>
+  <tile id="139">
+   <properties>
+    <property name="type" value="Air"/>
+   </properties>
+  </tile>
+  <tile id="150">
+   <properties>
+    <property name="type" value="Block"/>
+   </properties>
+  </tile>
+  <tile id="153">
+   <properties>
+    <property name="type" value="Air"/>
+   </properties>
+  </tile>
+  <tile id="154">
+   <properties>
+    <property name="type" value="Air"/>
+   </properties>
+  </tile>
+  <tile id="155">
+   <properties>
+    <property name="type" value="Air"/>
+   </properties>
+  </tile>
+ </tileset>
+ <layer name="midground" width="15" height="10">
+  <data>
+   <tile gid="0"/>
+   <tile gid="0"/>
+   <tile gid="0"/>
+   <tile gid="0"/>
+   <tile gid="0"/>
+   <tile gid="0"/>
+   <tile gid="0"/>
+   <tile gid="0"/>
+   <tile gid="0"/>
+   <tile gid="0"/>
+   <tile gid="0"/>
+   <tile gid="0"/>
+   <tile gid="0"/>
+   <tile gid="0"/>
+   <tile gid="0"/>
+   <tile gid="0"/>
+   <tile gid="0"/>
+   <tile gid="0"/>
+   <tile gid="0"/>
+   <tile gid="0"/>
+   <tile gid="0"/>
+   <tile gid="0"/>
+   <tile gid="0"/>
+   <tile gid="0"/>
+   <tile gid="0"/>
+   <tile gid="0"/>
+   <tile gid="0"/>
+   <tile gid="0"/>
+   <tile gid="0"/>
+   <tile gid="0"/>
+   <tile gid="0"/>
+   <tile gid="0"/>
+   <tile gid="0"/>
+   <tile gid="0"/>
+   <tile gid="0"/>
+   <tile gid="0"/>
+   <tile gid="0"/>
+   <tile gid="0"/>
+   <tile gid="0"/>
+   <tile gid="0"/>
+   <tile gid="0"/>
+   <tile gid="0"/>
+   <tile gid="0"/>
+   <tile gid="0"/>
+   <tile gid="0"/>
+   <tile gid="0"/>
+   <tile gid="0"/>
+   <tile gid="0"/>
+   <tile gid="0"/>
+   <tile gid="0"/>
+   <tile gid="0"/>
+   <tile gid="0"/>
+   <tile gid="0"/>
+   <tile gid="0"/>
+   <tile gid="0"/>
+   <tile gid="0"/>
+   <tile gid="0"/>
+   <tile gid="0"/>
+   <tile gid="0"/>
+   <tile gid="0"/>
+   <tile gid="128"/>
+   <tile gid="128"/>
+   <tile gid="128"/>
+   <tile gid="128"/>
+   <tile gid="128"/>
+   <tile gid="128"/>
+   <tile gid="128"/>
+   <tile gid="128"/>
+   <tile gid="128"/>
+   <tile gid="128"/>
+   <tile gid="128"/>
+   <tile gid="128"/>
+   <tile gid="128"/>
+   <tile gid="128"/>
+   <tile gid="128"/>
+   <tile gid="144"/>
+   <tile gid="144"/>
+   <tile gid="144"/>
+   <tile gid="144"/>
+   <tile gid="144"/>
+   <tile gid="144"/>
+   <tile gid="144"/>
+   <tile gid="144"/>
+   <tile gid="144"/>
+   <tile gid="144"/>
+   <tile gid="144"/>
+   <tile gid="144"/>
+   <tile gid="144"/>
+   <tile gid="144"/>
+   <tile gid="144"/>
+   <tile gid="160"/>
+   <tile gid="160"/>
+   <tile gid="160"/>
+   <tile gid="160"/>
+   <tile gid="160"/>
+   <tile gid="160"/>
+   <tile gid="160"/>
+   <tile gid="160"/>
+   <tile gid="160"/>
+   <tile gid="160"/>
+   <tile gid="160"/>
+   <tile gid="160"/>
+   <tile gid="160"/>
+   <tile gid="160"/>
+   <tile gid="160"/>
+   <tile gid="0"/>
+   <tile gid="0"/>
+   <tile gid="0"/>
+   <tile gid="0"/>
+   <tile gid="0"/>
+   <tile gid="0"/>
+   <tile gid="0"/>
+   <tile gid="0"/>
+   <tile gid="0"/>
+   <tile gid="0"/>
+   <tile gid="0"/>
+   <tile gid="0"/>
+   <tile gid="0"/>
+   <tile gid="0"/>
+   <tile gid="0"/>
+   <tile gid="0"/>
+   <tile gid="0"/>
+   <tile gid="0"/>
+   <tile gid="0"/>
+   <tile gid="0"/>
+   <tile gid="0"/>
+   <tile gid="0"/>
+   <tile gid="0"/>
+   <tile gid="0"/>
+   <tile gid="0"/>
+   <tile gid="0"/>
+   <tile gid="0"/>
+   <tile gid="0"/>
+   <tile gid="0"/>
+   <tile gid="0"/>
+   <tile gid="0"/>
+   <tile gid="0"/>
+   <tile gid="0"/>
+   <tile gid="0"/>
+   <tile gid="0"/>
+   <tile gid="0"/>
+   <tile gid="0"/>
+   <tile gid="0"/>
+   <tile gid="0"/>
+   <tile gid="0"/>
+   <tile gid="0"/>
+   <tile gid="0"/>
+   <tile gid="0"/>
+   <tile gid="0"/>
+   <tile gid="0"/>
+  </data>
+ </layer>
+ <objectgroup name="sprite layer"/>
+ <layer name="level layer" width="15" height="10">
+  <data>
+   <tile gid="151"/>
+   <tile gid="151"/>
+   <tile gid="151"/>
+   <tile gid="151"/>
+   <tile gid="151"/>
+   <tile gid="151"/>
+   <tile gid="151"/>
+   <tile gid="151"/>
+   <tile gid="151"/>
+   <tile gid="151"/>
+   <tile gid="151"/>
+   <tile gid="151"/>
+   <tile gid="151"/>
+   <tile gid="151"/>
+   <tile gid="151"/>
+   <tile gid="151"/>
+   <tile gid="151"/>
+   <tile gid="151"/>
+   <tile gid="151"/>
+   <tile gid="151"/>
+   <tile gid="151"/>
+   <tile gid="151"/>
+   <tile gid="151"/>
+   <tile gid="151"/>
+   <tile gid="151"/>
+   <tile gid="151"/>
+   <tile gid="151"/>
+   <tile gid="151"/>
+   <tile gid="151"/>
+   <tile gid="151"/>
+   <tile gid="151"/>
+   <tile gid="151"/>
+   <tile gid="151"/>
+   <tile gid="151"/>
+   <tile gid="151"/>
+   <tile gid="151"/>
+   <tile gid="151"/>
+   <tile gid="151"/>
+   <tile gid="151"/>
+   <tile gid="151"/>
+   <tile gid="151"/>
+   <tile gid="151"/>
+   <tile gid="151"/>
+   <tile gid="151"/>
+   <tile gid="151"/>
+   <tile gid="64"/>
+   <tile gid="64"/>
+   <tile gid="64"/>
+   <tile gid="64"/>
+   <tile gid="64"/>
+   <tile gid="64"/>
+   <tile gid="64"/>
+   <tile gid="64"/>
+   <tile gid="64"/>
+   <tile gid="64"/>
+   <tile gid="64"/>
+   <tile gid="64"/>
+   <tile gid="64"/>
+   <tile gid="64"/>
+   <tile gid="64"/>
+   <tile gid="123"/>
+   <tile gid="124"/>
+   <tile gid="122"/>
+   <tile gid="123"/>
+   <tile gid="124"/>
+   <tile gid="122"/>
+   <tile gid="123"/>
+   <tile gid="124"/>
+   <tile gid="122"/>
+   <tile gid="123"/>
+   <tile gid="124"/>
+   <tile gid="122"/>
+   <tile gid="123"/>
+   <tile gid="124"/>
+   <tile gid="9"/>
+   <tile gid="139"/>
+   <tile gid="140"/>
+   <tile gid="138"/>
+   <tile gid="139"/>
+   <tile gid="140"/>
+   <tile gid="138"/>
+   <tile gid="139"/>
+   <tile gid="140"/>
+   <tile gid="138"/>
+   <tile gid="139"/>
+   <tile gid="140"/>
+   <tile gid="138"/>
+   <tile gid="139"/>
+   <tile gid="140"/>
+   <tile gid="25"/>
+   <tile gid="155"/>
+   <tile gid="156"/>
+   <tile gid="154"/>
+   <tile gid="155"/>
+   <tile gid="156"/>
+   <tile gid="154"/>
+   <tile gid="155"/>
+   <tile gid="156"/>
+   <tile gid="154"/>
+   <tile gid="155"/>
+   <tile gid="156"/>
+   <tile gid="154"/>
+   <tile gid="155"/>
+   <tile gid="156"/>
+   <tile gid="41"/>
+   <tile gid="80"/>
+   <tile gid="80"/>
+   <tile gid="80"/>
+   <tile gid="80"/>
+   <tile gid="80"/>
+   <tile gid="80"/>
+   <tile gid="80"/>
+   <tile gid="80"/>
+   <tile gid="80"/>
+   <tile gid="80"/>
+   <tile gid="80"/>
+   <tile gid="80"/>
+   <tile gid="80"/>
+   <tile gid="80"/>
+   <tile gid="80"/>
+   <tile gid="151"/>
+   <tile gid="151"/>
+   <tile gid="151"/>
+   <tile gid="151"/>
+   <tile gid="151"/>
+   <tile gid="151"/>
+   <tile gid="151"/>
+   <tile gid="151"/>
+   <tile gid="151"/>
+   <tile gid="151"/>
+   <tile gid="151"/>
+   <tile gid="151"/>
+   <tile gid="151"/>
+   <tile gid="151"/>
+   <tile gid="151"/>
+   <tile gid="151"/>
+   <tile gid="151"/>
+   <tile gid="151"/>
+   <tile gid="151"/>
+   <tile gid="151"/>
+   <tile gid="151"/>
+   <tile gid="151"/>
+   <tile gid="151"/>
+   <tile gid="151"/>
+   <tile gid="151"/>
+   <tile gid="151"/>
+   <tile gid="151"/>
+   <tile gid="151"/>
+   <tile gid="151"/>
+   <tile gid="151"/>
+  </data>
+ </layer>
+ <objectgroup name="Interaction" visible="0">
+  <object name="door1" type="Door" x="224" y="64" width="16" height="48">
+   <properties>
+    <property name="LinkedDoor" value="door0"/>
+    <property name="linkedLevel" value="maintenance.tmx"/>
+   </properties>
+  </object>
+  <object name="door0" type="Door" x="0" y="64" width="16" height="48">
+   <properties>
+    <property name="linkedDoor" value="door3"/>
+    <property name="linkedLevel" value="Main_Deck.tmx"/>
+   </properties>
+  </object>
+ </objectgroup>
+</map>

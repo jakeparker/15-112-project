@@ -1,0 +1,21 @@
+
+
+### COMMANDS ###
+
+look dir:
+ 	press 'wasd' to look
+
+movement:
+ 	press '<' to toggle running
+ 	press '>' to toggle crouching
+ 		toggle '<' and '>' to roll
+ 	press '?' to jump
+
+ actions:
+ 	press 'space' to fire (dont press while in jump, will crash)
+ 	press 'F' to switch weapon
+
+
+#---------------------------------
+ comments:
+	- add help menu bar
