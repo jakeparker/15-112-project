@@ -12,7 +12,7 @@ Locally, I have been working on an updated version. Project has been on hiatus s
           - player physics, input control, etc
           - independent from the animation of the players character
     * per character animation (i.e., samus[player], mecha-ridley[boss], metroid[enemy], horn-toad[enemy], ..., etc) 
-          - determinisitc finite autonim (dfa) used for handling transition between animated states
+          - determinisitc finite autonima (dfa) used for handling transition between animated states
           - sprite animation as "sub-sprite-level"
               - instead of drawing a single sprite for each animated state, draw each body part sprite seperately
                    - for example, when changing from lazer-beam to missle, dont redraw samus's body, instead only redraw the weapon
